@@ -1,0 +1,55 @@
+body {
+	background-color: #83bf34;
+}
+
+header, footer {
+	background-color: rgb(242, 90,138);
+
+}
+
+h1,h2,h3 {
+	margin: 10px;
+	padding: 10px;
+	font-size: 1.5em;
+	font-weight: bold;
+	font-style: italic;
+
+}
+
+p, ul {
+
+	margin: 4px;
+	padding: 4px;
+}
+.logo {
+	width: 20px;
+	height: 208px;
+}
+
+
+{
+	position: absolute;
+
+	top: 60px;
+	right: 90px;
+
+}
+nav li {
+	list-style: none;
+	display: inline;
+	margin-left: 10px;
+}
+
+nav a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 36px;
+	color: #D90B6E;
+
+}
+main {
+	background-color: #acf497;
+}
+h1 {
+	text-align:center;
+}
